@@ -2,4 +2,4 @@
 - CEO/CTO at IdeasMarket Software
 - Javascript/C# junkie 👨🏻‍💻
 - Mate amargo lover 🧉
-- 📫 How to reach me: @vale.jacobo on Twitter 
+- 📫 How to reach me: @vj_barthe on Twitter 
