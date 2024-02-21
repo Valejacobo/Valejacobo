@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valentin Jacobo Barthe
-- CEO/CTO at 
+- CEO/CTO at [IdeasMarket Software](https://github.com/ideasmarket)
 - Golang/C# junkie 👨🏻‍💻
 - Mate amargo lover 🧉
 - 📫 How to reach me: @vj_barthe on Twitter and at vale.jacobo@gmail.com
