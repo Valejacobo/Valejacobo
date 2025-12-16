@@ -26,22 +26,24 @@ Currently co-developing a maintenance management platform with full DevOps owner
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=microsoftoffice&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=databricks&logoColor=white)
 
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat&logo=teamcity&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Embedded**  
@@ -77,20 +79,20 @@ Currently co-developing a maintenance management platform with full DevOps owner
 
 - 🎓 **Electronic Engineering** @ Universidad Nacional de Córdoba (2029)
 - 🌐 **Languages:** Spanish (Native) | English (Cambridge C1) | Portuguese (Conversational)
-- 🔧 **Embedded Hobbyist:** ATmega, ESP32, home server infrastructure
+- 🔧 **Embedded Hobbyist:** ATmega, ESP32, home server infrastructure & management
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to remote opportunities and interesting projects.
+I'm always open to remote opportunities and interesting projects.
 
 ```python
 contact = {
-    "email": "vale.jacobo@icloud.com",
-    "linkedin": "linkedin.com/in/vale-jacobo",
+    "email": "vale.jacobo@gmail.com",
+    "linkedin": "linkedin.com/in/valejacobo",
     "location": "Argentina (UTC-3)",
-    "open_to": ["Remote", "Full-time", "Contract"]
+    "open_to": ["Remote", "Full-time", "Contractor"]
 }
 ```
 
