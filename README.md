@@ -1,7 +1,10 @@
 # Hey, I'm Valentin 👋
 
 **Full Stack Developer** with 7+ years building web applications, internal tools, and REST APIs.  
-Currently developing a asset performance management platform with full Architecture & DevOps ownership.
+Currently building:
+- An asset performance management platform with full Architecture & DevOps ownership.
+- An online HMI software and firmware for seed germinators and drying ovens
+- Our own @ideasmarket website
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vale-jacobo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vale.jacobo@icloud.com)
