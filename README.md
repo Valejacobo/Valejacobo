@@ -70,7 +70,7 @@ Currently co-developing a maintenance management platform with full DevOps owner
 
 
 <p align="center">
-  <![Valejacobo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Valejacobo)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  <![Valejacobo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Valejacobo)(https://github.com/pranesh-2005/github-readme-stats-fast)
 </p>
 
 ---
