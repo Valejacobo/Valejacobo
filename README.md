@@ -21,6 +21,7 @@ Currently co-developing a maintenance management platform with full DevOps owner
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Backend & Frameworks**  
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=flat&logo=laravel)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -69,8 +70,7 @@ Currently co-developing a maintenance management platform with full DevOps owner
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valejacobo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valejacobo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <![Valejacobo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Valejacobo)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </p>
 
 ---
