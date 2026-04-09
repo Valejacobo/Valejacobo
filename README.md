@@ -1,7 +1,7 @@
 # Hey, I'm Valentin 👋
 
 **Full Stack Developer** with 7+ years building web applications, internal tools, and REST APIs.  
-Currently co-developing a maintenance management platform with full DevOps ownership.
+Currently developing a asset performance management platform with full Architecture & DevOps ownership.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vale-jacobo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vale.jacobo@icloud.com)
