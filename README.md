@@ -7,7 +7,7 @@ Currently building:
 - Our own @ideasmarket website
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vale-jacobo/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vale.jacobo@icloud.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vale@ideasmarketsoftware.com)
 [![Location](https://img.shields.io/badge/Argentina-🇦🇷-blue?style=flat)]()
 
 ---
